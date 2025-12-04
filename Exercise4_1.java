@@ -1,4 +1,5 @@
-public class Exercise4_1 {
+import java.util.Scanner;
+ public class Exercise4_1 {
 
     public static void printAmerican(String day, int date, String month, int year) {
         System.out.println(day + ", " + month + " " + date + ", " + year);
@@ -9,11 +10,17 @@ public class Exercise4_1 {
     }
 
     public static void main(String[] args) {
-        
-        String day="Monday";
-        String month="July";
-        int date=22;
-        int year=2019;
+        Scanner input=new Scanner(System.in);
+
+       System.out.print("Lutfen gunu giriniz(Carsamba, Cumartesi vb.): ");
+       String day=input.next();
+       System.out.print("Lutfen ayin kaçinci gunu oldugunu giriniz(16,24 vb): ");
+       int date=input.nextInt();
+       System.out.print("Lutfen hangi ayda oldugunuzu giriniz(Mayis, Aralik vb.): ");
+       String month=input.next();
+       System.out.print("Lutfen hangi yilda oldugunuzu giriniz: ");
+       int year=input.nextInt();
+
         
         printAmerican(day, date, month, year);
         printEuropean(day, date, month, year);
