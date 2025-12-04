@@ -2,7 +2,6 @@
 
 **Durum:** `ping` metodu ilk kez çağrıldığında yığın (stack) yapısı.
 
-Kod akışı: `main` -> `zoop` -> `baffle` -> `ping`
 
 ```text
 |------------------------|
