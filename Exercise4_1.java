@@ -24,5 +24,7 @@ import java.util.Scanner;
         
         printAmerican(day, date, month, year);
         printEuropean(day, date, month, year);
+
+        input.close();
     }
 } 
