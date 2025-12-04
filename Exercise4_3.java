@@ -27,9 +27,3 @@ public class Exercise4_3 {
 No, I wug.
 You wugga wug.
 I wug.*/
-
-/*stack diyagramı
-ping
-baffle
-zoop
-main*/
