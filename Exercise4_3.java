@@ -23,13 +23,13 @@ public class Exercise4_3 {
     }
 }
 
-//programın çıktısı
-//No, I wug.
-//You wugga wug.
-//I wug.
+/*programın çıktısı
+No, I wug.
+You wugga wug.
+I wug.*/
 
-//stack diyagramı
-//ping
-//baffle
-//zoop
-//main
+/*stack diyagramı
+ping
+baffle
+zoop
+main*/
