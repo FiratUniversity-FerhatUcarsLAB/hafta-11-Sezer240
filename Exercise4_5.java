@@ -33,9 +33,3 @@ It's breakfast
 !
 
 */
-
-/*stack diyagramı
-zoop(fred:breakfast, bob:4)
-clink(fork:4)
-main(bizz:5, buzz:2)
-*/
