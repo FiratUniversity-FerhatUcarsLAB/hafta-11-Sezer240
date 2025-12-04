@@ -24,10 +24,10 @@ public class Exercise4_2 {
 
 //baffle metotu ilk çağrıldığında blimp in değeri "rattle" dır
 
-//programın çıktısı
-//ik
-//rattle
-//ping zoop
-//boo-wa-ha-ha
+/*programın çıktısı
+ik
+rattle
+ping zoop
+boo-wa-ha-ha*/
 
 //birden fazla çalışan satırlar 14.satır ve 15.satır lardır
